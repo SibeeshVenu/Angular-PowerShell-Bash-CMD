@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "azure-storage": "^2.10.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node-powershell": "^3.3.1"
   }
 }
